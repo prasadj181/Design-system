@@ -70,7 +70,9 @@ export const AllVariants: Story = {
       <Button variant="primary">Primary</Button>
       <Button variant="secondary">Secondary</Button>
       <Button variant="outline">Outline</Button>
-      <Button variant="primary" disabled>Disabled</Button>
+      <Button variant="primary" disabled>
+        Disabled
+      </Button>
     </div>
   ),
 };
